@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 mathjax: true
 permalink: /2019/projects/p12/proposal/
